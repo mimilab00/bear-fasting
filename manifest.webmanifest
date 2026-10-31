@@ -1,0 +1,26 @@
+{
+  "name": "小熊 168 斷食",
+  "short_name": "小熊斷食",
+  "description": "16:8 斷食倒數與吃飯時間記錄",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "zh-Hant",
+  "background_color": "#f4f6f1",
+  "theme_color": "#f4f6f1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
